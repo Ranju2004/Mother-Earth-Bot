@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/mather earth.jpg" alt="mather earth">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>mather earth</b>
 </h1>
 
 
