@@ -1,10 +1,10 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/LionKettyUD/Mother-Earth-Bot.git /Mother-Earth-Bot
+  git clone https://github.com/EvamariaTG/EvaMaria.git /EvaMaria
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Mother-Earth-Bot
+  git clone $UPSTREAM_REPO /EvaMaria
 fi
 cd /EvaMaria
 pip3 install -U -r requirements.txt
