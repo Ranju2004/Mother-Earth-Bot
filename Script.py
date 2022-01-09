@@ -1,16 +1,16 @@
 class script(object):
-    START_TXT = """𝐘𝐨..𝐘𝐨.. {}🙋, I'm Powerful Movie-Search Bot You Can Use Me As A Auto-filter Bot In Your Group ..
+    START_TXT = """𝐘𝐨..𝐘𝐨.. {} 🙋, I'm Powerful Movie-Search Bot You Can Use Me As A Auto-filter Bot In Your Group ..
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓
 
 ⚠️More Help Check Help Button Below
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href=http://t.me/Allukishore_OFFICIAL> 🄰🄻🄻🅄🄺🄸🅂🄷🄾🅁🄴 </a> """
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href=http://t.me/Filmy_Hangama> ғɪʟᴍʏ ʜᴀɴɢᴀᴍᴀ </a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """╭━━━━━━━━━━━━━━━➣ 
-┣⪼ Mʏ Nᴀᴍᴇ - AK⚡️Aᴜᴛᴏ Fɪʟᴛᴇʀ😎
-┣⪼ ⒶⓀ - ""<a href=http://t.me/Allukishore_OFFICIAL> 🄰🄻🄻🅄🄺🄸🅂🄷🄾🅁🄴 </a>""
+┣⪼ Mʏ Nᴀᴍᴇ - 𐌑᧐ᴛɦᥱr Eᥲrᴛɦ
+┣⪼ ⒶⓀ - ""<a href=http://t.me/Filmy_Hangama>ғɪʟᴍʏ ʜᴀɴɢᴀᴍᴀ</a>""
 ┣⪼ Gʀᴏᴜᴘ -  Click Here 
 ┣⪼ Lɪʙʀᴀʀʀʏ - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ┣⪼ Lᴀɴɢᴜᴀɢᴇ - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
@@ -24,13 +24,13 @@ NOTE:
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - ""<a herf=https://t.me/+SuKq6KMnVa4yZTJl> F O O L </a>""
 
 <b> 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 </b> 
- ""<a href= https://t.me/AlluKishore_Official>⌠ AK ⌡ </a>"""
+ ""<a href= https://t.me/LegendsRequest>⌠ 🅛 🅡 ⌡ </a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𐌑᧐ᴛɦᥱr Eᥲrᴛɦ will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. AK⚡️Aᴜᴛᴏ Fɪʟᴛᴇʀ😎 should have admin privillage.
+1. 𐌑᧐ᴛɦᥱr Eᥲrᴛɦ should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -41,11 +41,11 @@ NOTE:
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- AK⚡️Aᴜᴛᴏ Fɪʟᴛᴇʀ😎 Supports both url and alert inline buttons.
+- 𐌑᧐ᴛɦᥱr Eᥲrᴛɦ Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. 𐌑᧐ᴛɦᥱr Eᥲrᴛɦ supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
