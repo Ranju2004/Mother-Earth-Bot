@@ -23,9 +23,8 @@ NOTE:
 - 𝑰 𝒂𝒎 𝒏𝒐𝒕 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - ""<a herf=https://t.me/+SuKq6KMnVa4yZTJl> F O O L </a>""
 
-𝙎𝙐𝙋𝙋𝙊𝙍𝙏 
- ""<a href= https://t.me/AlluKishore_Official>⌠ AK ⌡ </a>""
-    
+<b> 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 </b> 
+ ""<a href= https://t.me/AlluKishore_Official>⌠ AK ⌡ </a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
