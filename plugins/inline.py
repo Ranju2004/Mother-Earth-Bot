@@ -98,11 +98,10 @@ async def answer(bot, query):
 
 
 def get_reply_markup(query):
-    url = 't.me/Filmy_hangama' + quote(AUTH_CHANNEL.format(url))
     buttons = [
         [
             InlineKeyboardButton('𝚂𝚎𝚊𝚛𝚌𝚑 Again', switch_inline_query_current_chat=query),
-            InlineKeyboardButton('𝗙𝗶𝗹𝗺𝘆 𝗛𝗮𝗻𝗴𝗮𝗺𝗮', url),
+            InlineKeyboardButton('𝗙𝗶𝗹𝗺𝘆 𝗛𝗮𝗻𝗴𝗮𝗺𝗮', AUTH_CHANNEL),
         ]
       ]
     return InlineKeyboardMarkup(buttons)
