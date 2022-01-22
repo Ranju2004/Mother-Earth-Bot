@@ -82,7 +82,10 @@ these are the extra features of Eva Maria
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
+• /search  - <code>get the film information from various sources.</code>
+• /plink -  Same as /link command. You will be getting a shareable (https://t.me/TeamEvamaria/25) link of the replied media . But if /plink is used the file cant be forwarded to any other chats. 
+• /batch <starting message link> , <ending message link>
+"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
