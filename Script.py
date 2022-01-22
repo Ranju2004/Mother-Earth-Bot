@@ -84,7 +84,7 @@ these are the extra features of Eva Maria
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>
 • /batch - to create link for multiple posts
-• /batch - to create link for multiple posts """
+• /link - to create link for one post """
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
