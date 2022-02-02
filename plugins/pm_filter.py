@@ -41,7 +41,7 @@ async def give_filter(client, message):
 async def next_page(bot, query):
     ident, req, key, offset = query.data.split("_")
     if int(req) not in [query.from_user.id, 0]:
-        return await query.answer("oKda", show_alert=True)
+        return await query.answer("Don't Click On Others Request 🤨", show_alert=True)
     try:
         offset = int(offset)
     except:
@@ -428,7 +428,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Ｅｘｔｒａ Ｍｏｄｓ', callback_data='extra')
         ], [
             InlineKeyboardButton('𝖧𝗈𝗆𝖾', callback_data='start'),
-            InlineKeyboardButton('𝐒𝐭𝐚𝐭𝐮𝐬 ♪ºº', callback_data='stats')
+            
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -442,6 +442,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('sᴏᴜʀᴄᴇ', callback_data='source')
         ], [
             InlineKeyboardButton('𝖧𝗈𝗆𝖾', callback_data='start'),
+            InlineKeyboardButton('𝐒𝐭𝐚𝐭𝐮𝐬 ♪ºº', callback_data='stats')
             InlineKeyboardButton('𝙘𝙡𝙤𝙨𝙚 ↩', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
