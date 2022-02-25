@@ -443,7 +443,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton('𝖧𝗈𝗆𝖾', callback_data='start'),
             InlineKeyboardButton('𝐒𝐭𝐚𝐭𝐮𝐬', callback_data='stats')
-            InlineKeyboardButton('𝙘𝙡𝙤𝙨𝙚', callback_data='close_data'),
+            InlineKeyboardButton('Close', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
