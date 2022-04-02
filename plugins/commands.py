@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝗙𝗶𝗹𝗺𝘆 𝗛𝗮𝗻𝗴𝗮𝗺𝗮', url='https://t.me/Filmy_hangama')
+                InlineKeyboardButton('Channel', url='https://t.me/FHM_Movies')
             ],
             [
                 InlineKeyboardButton('𝙷𝚎𝚕𝚙', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥𝙨', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍𝚂𝚎𝚊𝚛𝚌𝚑', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('𝗙𝗶𝗹𝗺𝘆 𝗛𝗮𝗻𝗴𝗮𝗺𝗮', url='https://t.me/Filmy_hangama')
+            InlineKeyboardButton('Channel', url='https://t.me/FHM_Movies')
             ],[
             InlineKeyboardButton('𝙷𝚎𝚕𝚙', callback_data='help'),
             InlineKeyboardButton('𝙰𝚋𝚘𝚞𝚝', callback_data='about')
@@ -88,7 +88,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥𝙨', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 𝚂𝚎𝚊𝚛𝚌𝚑', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('𝗙𝗶𝗹𝗺𝘆 𝗛𝗮𝗻𝗴𝗮𝗺𝗮', url='https://t.me/Filmy_hangama')
+            InlineKeyboardButton('Channel', url='https://t.me/FHM_Movies')
             ],[
             InlineKeyboardButton('𝙷𝚎𝚕𝚙', callback_data='help'),
             InlineKeyboardButton('𝙰𝚋𝚘𝚞𝚝', callback_data='about')
