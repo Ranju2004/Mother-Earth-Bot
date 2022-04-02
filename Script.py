@@ -5,13 +5,13 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 
 ⚠️More Help Check Help Button Below
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href=http://t.me/Filmy_Hangama> ғɪʟᴍʏ ʜᴀɴɢᴀᴍᴀ </a> """
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href=https://t.me/FHM_Movies> ℝ𝕜𝟚𝟘𝟘𝟜 </a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """╭━━━━━━━━━━━━━━━➣ 
 ┣⪼ Mʏ Nᴀᴍᴇ - 𐌑᧐ᴛɦᥱr Eᥲrᴛɦ
-┣⪼ ғ ʜ - ""<a href=http://t.me/Filmy_Hangama>ғɪʟᴍʏ ʜᴀɴɢᴀᴍᴀ</a>""
-┣⪼ Gʀᴏᴜᴘ -   ""<a herf=https://t.me/LegendsRequest> ClIck Here </a>""
+┣⪼ ℝ𝕜𝟚𝟘𝟘𝟜 - ""<a href=https://t.me/FHM_Movies>ℝ𝕜𝟚𝟘𝟘𝟜</a>""
+┣⪼ 𝔊𝔯𝔬𝔲𝔭 -   ""<a herf=https://t.me/FHM_Movies> ClIck Here </a>""
 ┣⪼ Lɪʙʀᴀʀʀʏ - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ┣⪼ Lᴀɴɢᴜᴀɢᴇ - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ┣⪼ Dᴀᴛᴀ Bᴀsᴇ - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -24,7 +24,7 @@ NOTE:
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - ""<a herf=https://t.me/+SuKq6KMnVa4yZTJl> F O O L </a>""
 
 <b> 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 </b> 
- ""<a href= https://t.me/LegendsRequest>⌠ 🅛 🅡 ⌡ </a>"""
+ ""<a href= https://t.me/FHM_Movies>⌠𝔊𝔯𝔬𝔲𝔭⌡ </a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and 𐌑᧐ᴛɦᥱr Eᥲrᴛɦ will respond whenever a keyword is found the message
